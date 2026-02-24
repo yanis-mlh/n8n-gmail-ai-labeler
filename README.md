@@ -20,4 +20,11 @@
 3. **Customization**: Edit the "Basic LLM Chain" prompt to add your own business-specific labels (e.g., "Urgent", "Support", "Invoice").
 
 ---
-**Maintained by Yanis - AI Automation Engineer**
+## 📬 Connect with Me
+Interested in AI Automation or have a project in mind? Let's connect!
+
+👉 **LinkedIn:** [Anis Mellah](https://www.linkedin.com/in/mellah-anis)
+👉 **GitHub:** [@yanis-mlh](https://github.com/yanis-mlh)
+👉 **Email:** anisski06@gmail.com
+
+*Maintained by **Yanis** - Marketing Consultant & AI Automation Engineer.*
