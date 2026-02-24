@@ -1,5 +1,7 @@
 # 📧 AI Smart Inbox: Intelligent Gmail Labeling Agent
 
+![n8n Workflow Screenshot](workflow-screenshot.png)
+
 ## 🌟 Key Features
 * **Contextual Analysis**: Goes beyond simple keyword matching; it understands the *intent* of the sender.
 * **Dynamic Labeling**: Automatically assigns labels (**Lead**, **Pub**, **Famille**) directly in your Gmail interface.
